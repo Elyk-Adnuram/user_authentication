@@ -16,3 +16,7 @@ nodemon is a tool used to automatically restart a Node.js application whenever c
 CORS is a middleware used to enable Cross-Origin Resource Sharing (CORS) for an Express.js application.
 jsonwebtoken helps us create and verify JSON Web Tokens.
 dotenv allows you to store configuration data in a .env file, which is typically not committed to version control, to separate sensitive information from your codebase. This file contains key-value pairs that represent the environment variables.
+
+### References
+
+https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/
